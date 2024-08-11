@@ -6,12 +6,19 @@ Descripción del Proyecto
   El análisis de la base de datos incluye los siguientes aspectos:
 
   Composición de las Variables: Evaluación de las características y la estructura de las variables en el conjunto de datos.
+  
   Análisis Exploratorio de Datos: Exploración inicial para comprender la distribución y relaciones entre las variables.
+  
   Identificación de Datos Típicos y Atípicos: Detección de valores atípicos y análisis de su impacto en el modelo.
+  
   Tratamiento de Datos Faltantes o Nulos: Estrategias para manejar la falta de datos y su impacto en el análisis.
+  
   Transformación de Variables: Aplicación de técnicas de transformación para mejorar la calidad y la interpretabilidad de los datos.
+  
   Corrección de Variables: Ajuste y corrección de errores en los datos.
+  
   Desarrollo del Modelo de Regresión Logística: Creación y entrenamiento del modelo de regresión logística para predecir la conversión de prospectos.
+  
   Evaluación de la Distribución de Características: Análisis de cómo las características afectan la distribución de los datos y el desempeño del modelo.
 
   
