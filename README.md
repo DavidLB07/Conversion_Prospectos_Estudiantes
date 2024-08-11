@@ -1,4 +1,4 @@
-Optimización de Conversión de Prospectos en Estudiantes mediante Regresión Logística en la EON Escuela Online de Negocios
+# Optimización de Conversión de Prospectos en Estudiantes mediante Regresión Logística en la EON Escuela Online de Negocios
 
 Este proyecto se centra en el análisis y optimización de una base de datos de prospectos para la EON Escuela Online de Negocios. El objetivo es mejorar la conversión de prospectos en estudiantes mediante la aplicación de técnicas de regresión logística.
 
